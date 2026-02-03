@@ -993,7 +993,16 @@ input, select, textarea {
 						.row.gtr-0.gtr-uniform > * {
 							padding-top: 0rem;
 						}
+.fa-tiktok {
+    font-size: 30px; /* Adjust size */
+    color: #000000; /* Adjust color */
+    margin: 0 5px; /* Add spacing */
+    text-decoration: none; /* Remove underline from link */
+}
 
+.fa-tiktok:hover {
+    opacity: 0.7; /* Add a hover effect */
+}
 				.row.gtr-25 {
 					margin-top: 0;
 					margin-left: -0.5rem;
